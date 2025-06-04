@@ -76,7 +76,7 @@ app.all('/player/growid/checktoken', (req, res) => {
     }
 });
 app.get('/', function (req, res) {
-   res.send('Jayjen just an human.');
+   res.send('@998 Developer adalah seorang programmer pemula berusia 18 tahun yang sedang dalam proses belajar dan mengembangkan kemampuan di dunia pemrograman. Dengan semangat eksplorasi dan keinginan kuat untuk terus berkembang, @998 Developer aktif membangun berbagai proyek sederhana sebagai langkah awal menuju karier profesional di bidang teknologi.');
 });
 
 app.listen(5000, function () {
